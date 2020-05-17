@@ -1,0 +1,10 @@
+.result-list-panel {
+	display: flex;
+	flex-direction: row;
+	height: 100vh;
+	overflow-y: scroll;
+}
+
+.resul-card {
+	text-align: center;
+}
